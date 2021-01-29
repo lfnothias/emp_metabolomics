@@ -1,4 +1,4 @@
-# emp_metabolomics_quickvisualization
+# emp_metabolomics_formatting
 This notebook helps to estimate the noise threshold introduced by the gap filling step in MZmine. 
 Two feature tables are used (before/after gap filling) and for simplicity, we use a subset of samples.
 
