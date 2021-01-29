@@ -1,4 +1,10 @@
 # emp_metabolomics_formatting
+
+##emp_metabolomics_concatenate_annotations
+This notebooks takes all the annotations available and concatenate them into a master feature metadata table.
+
+##emp_metabolomics_FBMN_visualize
+
 This notebook helps to estimate the noise threshold introduced by the gap filling step in MZmine. 
 Two feature tables are used (before/after gap filling) and for simplicity, we use a subset of samples.
 
