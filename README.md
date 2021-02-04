@@ -1,10 +1,10 @@
 # EMP metabolomics
 
-The latest metabolomics jobs and methods are available on that repository [https://github.com/lfnothias/emp/blob/release_2.1/methods/methods_release2.md](https://github.com/lfnothias/emp/blob/release_2.1/methods/methods_release2.md).
+The latest *metabolomics data/jobs/results* and methods are available from that repository [https://github.com/lfnothias/emp/blob/release_2.1/methods/methods_release2.md](https://github.com/lfnothias/emp/blob/release_2.1/methods/methods_release2.md).
 
-The notebooks below were used to preanalysis and prepare the metabolomics results.
+The notebooks below were used to preanalysis and prepare the metabolomics results, including the feature metadata master tables.
 
-The latest feature metadata tables for Feature-Based Molecular Networking (FBMN) and Classical Molecular Networking (CMN) are in [metabo_feature_metadata](./metabo_feature_metadata).
+The latest *feature metadata* master tables for Feature-Based Molecular Networking (*FBMN*) and Classical Molecular Networking (*CMN*) are in [metabo_feature_metadata](./metabo_feature_metadata).
 
 
 ## Prepare feature metadata
