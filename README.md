@@ -12,7 +12,7 @@ The latest feature metadata tables for Feature-Based Molecular Networking (FBMN)
 
 This notebooks takes all the annotations available and concatenate them into a master feature metadata table.
 
-Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/emp_metabolomics_quickvisualization/HEAD?filepath=notebooks/EMP_Metabo_FBMN_CMN_Concat_Annotations.ipynb)
+Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/emp_metabolomics/HEAD?filepath=notebooks/EMP_Metabo_FBMN_CMN_Concat_Annotations.ipynb)
 
 
 ## Visualize intensity distribution in FBMN
@@ -21,9 +21,9 @@ Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](htt
 This notebook visualized the intensity distribution in the metabolomics feature intensity table. That informations helps to define an intensity threshold for noise and for abscence/presence of a compound.
 Two feature tables are used (before/after gap filling) and for simplicity, we use a subset of samples.
 
-Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/emp_metabolomics_quickvisualization/HEAD?filepath=notebooks/EMP_Metabo_FBMN_visualize-distrib_v4.ipynb)
+Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/emp_metabolomics/HEAD?filepath=notebooks/EMP_Metabo_FBMN_visualize-distrib_v4.ipynb)
 
-Interative notebook to compare before/after gap filling here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/emp_metabolomics_quickvisualization/HEAD?filepath=notebooks/EMP_Metabo_FBMN_visualize-distrib_v3_compare_before_after_gapfilling.ipynb)
+Interative notebook to compare before/after gap filling here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/emp_metabolomics/HEAD?filepath=notebooks/EMP_Metabo_FBMN_visualize-distrib_v3_compare_before_after_gapfilling.ipynb)
 
 
 ## Convert MZmine table to BIOM
@@ -31,4 +31,4 @@ Interative notebook to compare before/after gap filling here -> [![Binder](https
 
 This notebooks takes a MZmine feature table and convert it into the BIOM format.
 
-Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/emp_metabolomics_quickvisualization/HEAD?filepath=notebooks/EMP_metabo_MZmine_to_BIOM.ipynb)s
+Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/emp_metabolomics/HEAD?filepath=notebooks/EMP_metabo_MZmine_to_BIOM.ipynb)s
