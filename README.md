@@ -31,4 +31,4 @@ Interative notebook to compare before/after gap filling here -> [![Binder](https
 
 This notebooks takes a MZmine feature table and convert it into the BIOM format.
 
-Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/qiime2/master?urlpath=lab/tree/notebooks/EMP_metabo_MZmine_to_BIOM.ipynb)s
+Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/qiime2/master?urlpath=lab/tree/notebooks/EMP_metabo_MZmine_to_BIOM.ipynb)
