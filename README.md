@@ -8,7 +8,7 @@ The latest *feature metadata* master tables for Feature-Based Molecular Networki
 
 
 ## Prepare feature metadata
-'EMP_Metabo_FBMN_CMN_Concat_Annotations.ipynb'
+[`EMP_Metabo_FBMN_CMN_Concat_Annotations.ipynb`](https://nbviewer.jupyter.org/github/lfnothias/emp_metabolomics/blob/main/notebooks/EMP_Metabo_FBMN_CMN_Concat_Annotations.ipynb)
 
 This notebooks takes all the annotations available and concatenate them into a master feature metadata table.
 
@@ -16,7 +16,7 @@ Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](htt
 
 
 ## Visualize intensity distribution in FBMN
-'EMP_Metabo_FBMN_visualize-distrib_v4.ipynb'
+[`EMP_Metabo_FBMN_visualize-distrib_v4.ipynb`](https://nbviewer.jupyter.org/github/lfnothias/emp_metabolomics/blob/main/notebooks/EMP_Metabo_FBMN_visualize-distrib_v4.ipynb)
 
 This notebook visualized the intensity distribution in the metabolomics feature intensity table. That informations helps to define an intensity threshold for noise and for abscence/presence of a compound.
 Two feature tables are used (before/after gap filling) and for simplicity, we use a subset of samples.
@@ -27,7 +27,7 @@ Interative notebook to compare before/after gap filling here -> [![Binder](https
 
 
 ## Convert MZmine table to BIOM
-'EMP_metabo_MZmine_to_BIOM.ipynb'
+[`EMP_metabo_MZmine_to_BIOM.ipynb`](https://nbviewer.jupyter.org/github/lfnothias/emp_metabolomics/blob/main/notebooks/EMP_metabo_MZmine_to_BIOM.ipynb)
 
 This notebooks takes a MZmine feature table and convert it into the BIOM format.
 
