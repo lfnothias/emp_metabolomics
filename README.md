@@ -41,4 +41,15 @@ Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](htt
 This notebooks consolidate structure identifiers.
 
 Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/qiime2/master?urlpath=lab/tree/notebooks/EMP_Metabo_Annotations_consolidate_CMN.ipynb)
+
 Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/qiime2/master?urlpath=lab/tree/notebooks/EMP_Metabo_Annotations_consolidate_FBMN.ipynb)
+
+## Establish microbial metabolites and propagate
+[`EMP-metabo_CMN_microbial_metabolites.ipynb`](https://nbviewer.jupyter.org/github/lfnothias/emp_metabolomics/blob/main/notebooks/EMP-metabo_CMN_microbial_metabolites.ipynb)
+[`EMP-metabo_FBMN_microbial_metabolites.ipynb`](https://nbviewer.jupyter.org/github/lfnothias/emp_metabolomics/blob/main/notebooks/EMP-metabo_FBMN_microbial_metabolites.ipynb)
+
+This notebooks consolidate structure identifiers.
+
+Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/qiime2/master?urlpath=lab/tree/notebooks/EMP-metabo_CMN_microbial_metabolites.ipynb)
+
+Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/qiime2/master?urlpath=lab/tree/notebooks/EMP-metabo_FBMN_microbial_metabolites.ipynb)
