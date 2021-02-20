@@ -48,7 +48,19 @@ Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](htt
 [`EMP-metabo_CMN_microbial_metabolites.ipynb`](https://nbviewer.jupyter.org/github/lfnothias/emp_metabolomics/blob/main/notebooks/EMP-metabo_CMN_microbial_metabolites.ipynb)
 [`EMP-metabo_FBMN_microbial_metabolites.ipynb`](https://nbviewer.jupyter.org/github/lfnothias/emp_metabolomics/blob/main/notebooks/EMP-metabo_FBMN_microbial_metabolites.ipynb)
 
-This notebooks consolidate structure identifiers.
+We match putative spectral annotation against NPAtlas and MIBIG and recover metadata (suffix/prefix `_NPA_` and `_MIBIG_` respectively). We create new columns to indicate if an annotation is microbial (`is_microbial`). We differenciate the annotation level based on Metabolomics Standard Initiative standards. We also create new columns that store the identifiers from NPAtlas and MiBIG.
+
+    - Level 2: GNPS spectral library match in regular and analaogue mode, for `GNPS_LIB` and `GNPS_LIBA`
+    - Level 3: DEREPLICATOR and DEREPLICATOR+, for  `DEREP` and `DEREP+`
+    - Level 4: SIRIUS/CSI:FingerID, for `CSI_`
+
+   For example `is_microbial_level_2` or by combining levels `is_microbial_level_2_3_4`. 'YES' indicates this metabolites is potentially microbial and belong to the respective annotation level.
+   
+   `is_microbial_tool` column summarizes the annotation tool that gave a microbial metabolite hits.
+   
+   `is_microbial_tool_id` column summarizes the NPAtlas and MIBIG identifiers for the hits.
+
+- We propagate the microbial molecules using molecular network families (using `GNPS_componentindex`) and create a new column to indicate that these molecules are part of a putative microbial network. For example with columns: `is_microbial_level_2_3_4_network` and `is_microbial_level_2_3_4_networkid` (for id of `GNPS_componentindex`).
 
 Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/qiime2/master?urlpath=lab/tree/notebooks/EMP-metabo_CMN_microbial_metabolites.ipynb)
 
