@@ -32,3 +32,13 @@ Interative notebook to compare before/after gap filling here -> [![Binder](https
 This notebooks takes a MZmine feature table and convert it into the BIOM format.
 
 Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/qiime2/master?urlpath=lab/tree/notebooks/EMP_metabo_MZmine_to_BIOM.ipynb)
+
+
+## Consolidate structures identifiers
+[`EMP_Metabo_Annotations_consolidate_CMN.ipynb`](https://nbviewer.jupyter.org/github/lfnothias/emp_metabolomics/blob/main/notebooks/EMP_Metabo_Annotations_consolidate_CMN.ipynb)
+[`EMP_Metabo_Annotations_consolidate_FBMN.ipynb`](https://nbviewer.jupyter.org/github/lfnothias/emp_metabolomics/blob/main/notebooks/EMP_Metabo_Annotations_consolidate_FBMN.ipynb)
+
+This notebooks consolidate structure identifiers.
+
+Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/qiime2/master?urlpath=lab/tree/notebooks/EMP_Metabo_Annotations_consolidate_CMN.ipynb)
+Interative notebook here -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lfnothias/qiime2/master?urlpath=lab/tree/notebooks/EMP_Metabo_Annotations_consolidate_FBMN.ipynb)

@@ -4,3 +4,4 @@ matplotlib
 seaborn
 biom-format
 h5py
+rdkit
