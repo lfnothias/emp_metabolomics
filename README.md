@@ -4,7 +4,7 @@ The latest *metabolomics data/jobs/results* and methods are available from that 
 
 The notebooks below were used to preanalysis and prepare the metabolomics results, including the feature metadata master tables.
 
-The latest *feature metadata* master tables for Feature-Based Molecular Networking (*FBMN*) and Classical Molecular Networking (*CMN*) are in [metabo_feature_metadata](./metabo_feature_metadata).
+The latest *feature metadata* master tables for Feature-Based Molecular Networking (*FBMN*) and Classical Molecular Networking (*CMN*) are available at [https://github.com/lfnothias/emp/tree/release_2.1/data/metabolomics/](https://github.com/lfnothias/emp/tree/release_2.1/data/metabolomics/).
 
 
 ## Prepare feature metadata
